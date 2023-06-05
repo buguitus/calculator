@@ -1,0 +1,29 @@
+
+.numbers{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+.result{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 45px;
+    text-align: center;
+    color: darkgray;
+}
+
+.container{
+    width: 800px;
+    height: 100px;
+}
+
+button{
+    background-color: white;
+    width: 250px;
+    height: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+    position:relative;
+    left: 350px;
+}
